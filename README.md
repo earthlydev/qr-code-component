@@ -27,8 +27,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I've been practicing HTML5 & CSS, but I wanted to challenge myself to see if I could build a simple QR code layout with Flexbox. The use of git and github was also solidified in this project. This is the first project I pushed on to github requiring the uses of push, branches, and clone. 
 
-To see how you can add code snippets, see below:
-
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
